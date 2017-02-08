@@ -1,0 +1,12 @@
+[
+  {
+		"title": "Home",
+    "path":  "home",
+		"component" : "app/home/home.module"
+	},
+  {
+    "title":"Team",
+    "path":"team",
+    "component": "app/team/team.module"
+  }
+]
